@@ -1,4 +1,4 @@
-# Agriculture_Traceability_System
+# Agriculture_Traceability_System - Vietnamese Description
 Hệ thống truy xuất nguồn gốc nông sản dựa trên blockchain là một ứng dụng hiện đại nhằm đảm bảo tính minh bạch và an toàn cho chuỗi cung ứng nông sản. Nền tảng Ethereum được sử dụng, với ngôn ngữ Solidity để phát triển các smart contract quản lý thông tin sản phẩm nông nghiệp. Người dùng có thể tương tác với blockchain thông qua Metamask, cho phép thực hiện giao dịch một cách an toàn.
 
 Ganache mô phỏng mạng blockchain cục bộ, giúp kiểm tra và phát triển ứng dụng nhanh chóng mà không cần kết nối với mạng Ethereum thực tế. Giao diện người dùng được xây dựng bằng ReactJS, mang lại trải nghiệm mượt mà và tương tác nhanh chóng cho người dùng. TailwindCSS được áp dụng để tạo ra một giao diện hiện đại, dễ nhìn và thân thiện, giúp người tiêu dùng dễ dàng truy cập thông tin về nguồn gốc sản phẩm nông nghiệp.
