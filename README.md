@@ -1,5 +1,5 @@
 <h1 align="center">Agricultural Traceability System </h1> 
-![image](https://github.com/user-attachments/assets/cc35cf2b-99c6-4605-9f37-ee71a8657c48) 
+![image](https://github.com/user-attachments/assets/fc6b237a-b936-4705-8380-89e6274b82ef)
 
 # Explain project files 
 - build/contracts: This folder contains Solidity codes that were compiled after run " truffle compile" command in CLI.
