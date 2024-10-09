@@ -1,3 +1,6 @@
+# Explain project files 
+![image](https://github.com/user-attachments/assets/cc35cf2b-99c6-4605-9f37-ee71a8657c48) 
+
 # Agriculture_Traceability_System - Vietnamese Description
 Hệ thống truy xuất nguồn gốc nông sản dựa trên blockchain là một ứng dụng hiện đại nhằm đảm bảo tính minh bạch và an toàn cho chuỗi cung ứng nông sản. Nền tảng Ethereum được sử dụng, với ngôn ngữ Solidity để phát triển các smart contract quản lý thông tin sản phẩm nông nghiệp. Người dùng có thể tương tác với blockchain thông qua Metamask, cho phép thực hiện giao dịch một cách an toàn.
 
