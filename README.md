@@ -1,5 +1,23 @@
-# Explain project files 
+<h1 align="center">Agricultural Traceability System </h1> 
 ![image](https://github.com/user-attachments/assets/cc35cf2b-99c6-4605-9f37-ee71a8657c48) 
+
+# Explain project files 
+- build/contracts: This folder contains Solidity codes that were compiled after run " truffle compile" command in CLI.
+- contracts: This directory contains Solidity file.
+- migrations: contains JS file to config which smart contracts will be compiled.
+- traceability-frontend:  Front-end which use Smart Contracts (https://github.com/1902VanHuongCoder/Frontend_Agriculture_Traceability_System)
+- truffle-config.js: Config file to connect to visual network on Ganache
+
+# Project's images 
+- Use metamask
+![image](https://github.com/user-attachments/assets/a66aa2b1-5f50-4a40-85a1-835713f3dd53)
+- Use Ganache
+![image](https://github.com/user-attachments/assets/28a86347-e0b8-4785-bbf6-38f0cd0022ad)
+- Tracing Page
+  + Image 01:
+    ![image](https://github.com/user-attachments/assets/9b3af6bf-7937-458b-9eb9-f75d4012d2db)
+  + Image 02:
+    ![image](https://github.com/user-attachments/assets/87fff25e-bde5-49ee-add3-37e5678cdee7)
 
 # Agriculture_Traceability_System - Vietnamese Description
 Hệ thống truy xuất nguồn gốc nông sản dựa trên blockchain là một ứng dụng hiện đại nhằm đảm bảo tính minh bạch và an toàn cho chuỗi cung ứng nông sản. Nền tảng Ethereum được sử dụng, với ngôn ngữ Solidity để phát triển các smart contract quản lý thông tin sản phẩm nông nghiệp. Người dùng có thể tương tác với blockchain thông qua Metamask, cho phép thực hiện giao dịch một cách an toàn.
