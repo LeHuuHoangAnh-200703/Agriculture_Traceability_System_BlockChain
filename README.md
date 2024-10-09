@@ -1,4 +1,5 @@
 <h1 align="center">Agricultural Traceability System </h1> 
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/fc6b237a-b936-4705-8380-89e6274b82ef" />
 ![image](https://github.com/user-attachments/assets/fc6b237a-b936-4705-8380-89e6274b82ef)
 
 # Explain project files 
